@@ -149,11 +149,3 @@ body{
     cursor: pointer;
     color: var(--cor-cyan);
 }
-
-@media (max-width:370px) {
-    .card{
-        
-
-    }
-    
-}
