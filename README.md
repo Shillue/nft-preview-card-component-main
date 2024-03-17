@@ -20,12 +20,13 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
+![nft preveiw card](https://github.com/Shillue/nft-preview-card-component-main/assets/86475008/43753c4f-2d7c-46d3-a6e8-dbc9c0c0c212)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Shillue/nft-preview-card-component-main.git)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://shillue.github.io/nft-preview-card-component-main/)
 
 ## My process
 
